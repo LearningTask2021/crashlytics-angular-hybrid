@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "90756245501",
+    "project_id": "crashlytics-angular-hybrid-app",
+    "storage_bucket": "crashlytics-angular-hybrid-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90756245501:android:f11b08ae0a4f44a2ba5b94",
+        "android_client_info": {
+          "package_name": "io.ionic.demo.pg.cap.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90756245501-cchsmlo47hthijm91m2dphtdr0ue23ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmtfeubIj5DVax7sD2vhq0L6FhqhIZ9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90756245501-cchsmlo47hthijm91m2dphtdr0ue23ij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90756245501-ijous96vlh3khek1msojqc1ml5v9inh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.demo.pg.cap.ng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
